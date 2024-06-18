@@ -1,0 +1,6 @@
+Time calculating parallel cross in ms :
+41
+result cross product parallel :
+30.000000 36.000000 42.000000 
+66.000000 81.000000 96.000000 
+102.000000 126.000000 150.000000 
