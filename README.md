@@ -55,8 +55,8 @@ Testing different filters shows significant performance benefits of assembly-lev
 ## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/kasrahmi/Convolution_Image.git
+  ```bash
+  git clone https://github.com/kasrahmi/Convolution_Image.git
   ```
 
 2. Compile the assembly code using NASM or your preferred assembler:
