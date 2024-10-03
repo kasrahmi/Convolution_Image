@@ -42,6 +42,29 @@ The core of this project involves convolution operations, which are widely used 
 0  -1  0
 ```
 
+## Processed Images
+
+Below are examples of the images after applying various convolution filters.
+
+### Prheprocced Image
+
+![image](https://github.com/user-attachments/assets/2434599d-bfbc-4697-a6a8-09fc3dde183d)
+
+### 1. Sharpened Image
+This image was processed using the sharpen filter to enhance edges and details.
+
+![newImage](https://github.com/user-attachments/assets/e783cf67-d0cc-4ade-a68c-50b952fa8090)
+
+### 2. Blurred Image
+This image demonstrates the blur filter, which smooths the image by reducing noise.
+
+![newImageBlur](https://github.com/user-attachments/assets/391ad640-6133-4138-a0bb-cec8a15d5e98)
+
+### 3. Edge Detection
+The edge detection filter highlights the boundaries within the image.
+
+![newImageBorder](https://github.com/user-attachments/assets/4137c4b7-02de-4150-86b0-4321c9d8077c)
+
 ## Benchmarks
 
 Testing different filters shows significant performance benefits of assembly-level optimization over high-level languages. The time complexity for processing increases with image size, but assembly ensures minimal overhead.
